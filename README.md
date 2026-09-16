@@ -130,7 +130,7 @@ Categories include:
 
 Selections can be stored as Yes, No, or Maybe for early project planning.
 
-![Project Scope Selection](screenshots/03-project-scope-selection.png)
+![Scope Calculator](screenshots/04-scope-calculator.png)
 
 ## Detailed Scope Calculator
 
@@ -149,7 +149,7 @@ The application then calculates:
 - Total conceptual budget
 - Conceptual budget range
 
-![Scope Calculator](screenshots/04-scope-calculator.png)
+![Project Scope Selection](screenshots/03-project-scope-selection.png)
 
 ## SharePoint Integration
 
