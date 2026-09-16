@@ -196,7 +196,7 @@ The repository includes selected Power Apps screen source for reviewing the Powe
 
 ### Internal Calculator
 
-[`source/screens/Internal.yaml`](source/screens/Internal.yaml)
+[`source/screens/Internal.yaml`](source/screens/Budget-Calculator.yaml)
 
 Includes:
 
@@ -209,7 +209,7 @@ Includes:
 
 ### Internal Scope Calculator
 
-[`source/screens/Internal_scope_finder.yaml`](source/screens/Internal_scope_finder.yaml)
+[`source/screens/Internal_scope_finder.yaml`](source/screens/scope-finder.yaml)
 
 Includes:
 
@@ -223,7 +223,7 @@ Includes:
 
 The packaged Power Apps application is available here:
 
-[`app/ConceptualBudgetCalculator.msapp`](app/ConceptualBudgetCalculator.msapp)
+[`app/ConceptualBudgetCalculator.msapp`](app/Conceptual-budget-powerapps.msapp)
 
 ## Skills Demonstrated
 
